@@ -1,0 +1,2 @@
+Data in Altair is built around the Pandas Dataframe, it means that you can manipulate
+data in Altair the same way you would deal with Pandas Dataframe
